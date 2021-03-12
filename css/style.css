@@ -1,0 +1,15 @@
+
+body{
+    background-color:#5be2e6 ;
+    color:#f3fbfb;
+}
+logo{
+    width: 0px;
+
+}
+.bg-dark {
+    background-color: #5be2e6!important;
+}
+.navbar-nav .nav-link {
+    color: #e9ecef;
+}

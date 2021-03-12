@@ -1,0 +1,15 @@
+
+body{
+    background-color:#5be2e6 ;
+    color:#f3fbfb;
+}
+logo{
+    width: 0px;
+
+}
+.bg-dark {
+    background-color: #5be2e6!important;
+}
+.list-group-item list-group-item-action  {
+    background-color: #58dade;
+}
